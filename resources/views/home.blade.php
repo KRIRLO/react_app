@@ -16,6 +16,8 @@
 
                     {{ __('You are logged in!') }}
                 </div>
+<!-- se renderiza el componente example.jsx desde app.js-->
+                <div id="table"></div>
             </div>
         </div>
     </div>
